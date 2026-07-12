@@ -2,7 +2,8 @@
 
 ## 📊 Project Overview
 A specialized operational finance tracker built to isolate invisible financial capital drain, overhead inefficiencies, and supply chain inventory mismatches. Focused on strict bottom-line protection, this engine identifies precisely where operational costs are eating into net profit margins.
-
+## 📺 Live Demo Video
+[![Watch the Demo](https://img.shields.io/badge/🎥%20Watch-Risk%20Predictor%20Demo-deeppink?style=for-the-badge&logo=loom)](https://www.loom.com/share/235910f4095a4d13b2a2324c942440cc)
 ## 🛠️ Core Tech Stack & Financial Analyst Skills
 *   **Python (Operational Ingestion):** Developed programmatic pipelines to compare physical log datasets directly against financial invoice records to isolate variances.
 *   **SQL (Variance Discovery):** Formulated highly specific lookup queries to identify pricing anomalies, duplicate supplier invoices, and temporal processing lag costs.
